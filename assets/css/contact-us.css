@@ -1,0 +1,183 @@
+.header-main {
+    display: block;
+    margin-bottom: 25px;
+}
+
+.header-main .header-main-inner .header-bottom .header-bottom-inner .menu > li:first-child {
+	background-color: transparent !important;
+}
+.main .main-inner .inner {
+    display: flex;
+}
+
+.main .main-inner .block-left {
+    display: block;
+    float: left;
+    width: 50%;
+    padding-right: 20px;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+    min-width: auto;
+}
+
+.main .main-inner .title {
+    display: block;
+    margin-bottom: 25px;
+}
+
+.main .main-inner .title span {
+    line-height: 1.1;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.main .main-inner .inner .block-left .heading span {
+    color: #333333;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+.main .main-inner .inner .block-left .heading {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 10px;
+    display: block;
+    line-height: 1.4;
+}
+
+.main .main-inner .block-left .info p {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14px;
+    text-align: left;
+}
+
+.main .main-inner .block-left .info p {
+    margin: 0 0 20px;
+    color: #333;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.main .main-inner .block-left .info .block {
+    display: block;
+    margin: 0 0 20px;
+}
+
+.main .main-inner .block-left .info label {
+    font-size: 14px;
+    text-align: left;
+    margin: 0 0 8px;
+    display: inline-block;
+    font-weight: 600;
+    line-height: 20px;
+    color: #333;
+}
+
+.main .main-inner .block-left .info label span {
+    color: #e02b27;
+    margin: 0 0 0 5px;
+    font-size: 12px;
+}
+
+.main .main-inner .block-left .info .block input {
+    display: block;
+    border: 1px solid #e1e1e1;
+    border-radius: 1px;
+    font-size: 14px;
+    height: 38px;
+    line-height: 1.42857143;
+    padding: 0 9px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #fff;
+}
+
+.main .main-inner .block-left .info .block-2 {
+    display: block;
+    margin: 0 0 40px;
+}
+
+.main .main-inner .block-left .info .block-2 textarea {
+    display: block;
+    border: 1px solid #e1e1e1;
+    border-radius: 1px;
+    font-size: 14px;
+    height: 38px;
+    line-height: 1.42857143;
+    padding: 0 9px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #fff;
+}
+
+.main .main-inner .block-left .info .block-3 input {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 10px 18px;
+    background-color: #DABA5D;
+
+}
+
+.main .main-inner .block-left .info .block-3 input {
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 3px;
+    background: #2BC1C4;
+    border: 1px solid #2BC1C4;
+    text-align: center;
+    transition: all .2s ease-in-out;
+    font-weight: 400;
+    padding: 9px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+.main .main-inner .block-right {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding-left: 20px;
+    margin-bottom: 40px;
+}
+
+.main .main-inner .block-right .heading {
+    color: #333333;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 10px;
+    display: block;
+    line-height: 1.4;
+    text-align: left;
+}
+
+.main .main-inner .block-right .info .item {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.main .main-inner .block-right .info .item p {
+    margin: 0;
+    color: #555555;
+    font-size: 14px;
+    display: block;
+}
+
+.main .main-inner .block-right .info .item span {
+    display: block;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #333333;
+}
